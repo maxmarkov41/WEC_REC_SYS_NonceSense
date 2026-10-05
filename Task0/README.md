@@ -195,3 +195,5 @@ Build/blinky.map
 ## Result
 
 The final program was successfully built and flashed to an ATmega328P using the custom startup code, linker script, and Makefile. The LED blink was verified on hardware.
+
+Please view the demo here ![](../Assets/demo.mp4)
